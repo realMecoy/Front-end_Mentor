@@ -35,7 +35,7 @@ body {
   border-radius: 15px 15px 0 0;
   width: 100%;
 }
-h2 {
+h1 {
   margin: 3rem 1rem 0;
   font-weight: 900;
 }
@@ -64,7 +64,7 @@ h2 {
   margin: 0 1rem;
   color: var(--txt-color);
 }
-h4 {
+h2 {
   font-size: 1rem;
   margin: 0 1rem;
 }
@@ -141,12 +141,12 @@ a:hover {
     margin-left: -0.63rem;
   }
   .sub-txt,
-  h4 {
+  h2 {
     font-size: 0.9rem;
     width: 5.2rem;
     margin-bottom: 5px;
   }
-  h4 {
+  h2 {
     font-weight: 900;
   }
   a {
